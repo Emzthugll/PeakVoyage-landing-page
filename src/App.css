@@ -36,3 +36,72 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: "Mashita";
+  src: url("./fonts/mashita.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./fonts/montserrat.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "inred";
+  src: url("./fonts/inred.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ragged";
+  src: url("./fonts/ragged.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Makeba";
+  src: url("./fonts/Makeba.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Ensure the Swiper container takes full width and centers its content */
+.swiper-container {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* Ensure Swiper slides are centered and aligned properly */
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Modal.css (if needed) */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 50;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 50px;
+  border-radius: 10px;
+  width: 500px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
