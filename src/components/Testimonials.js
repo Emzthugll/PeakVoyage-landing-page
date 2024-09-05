@@ -16,21 +16,21 @@ const testimonials = [
   {
     text: "I was impressed by the attention to detail and the seamless travel arrangements made by PeakVoyage. Their dedication to customer satisfaction is unparalleled.",
     image:
-      "https://scontent.fcrk2-2.fna.fbcdn.net/v/t39.30808-6/452199761_27107345035531186_1983926615976944528_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=UIOuH_oGHT0Q7kNvgG4d9LY&_nc_ht=scontent.fcrk2-2.fna&oh=00_AYALxaIp-uQ1zgPX4tq9a1OABJ9tjpoCb2P1tdZk87d9xQ&oe=66D35D17",
+      "https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/457518516_27548517708080581_338373357538863094_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=AU-AQTedwIIQ7kNvgHOQcHU&_nc_ht=scontent.fcrk4-1.fna&oh=00_AYDIrv37BFfDXoLPkXI5wG-br3HRNyeKWp29SH3g6VhG0Q&oe=66DEE84B",
     name: "Lorraine J.",
     position: "Graphic Designer",
   },
   {
     text: "PeakVoyage helped us find the perfect getaway. Their recommendations were spot on, and their customer service was top-notch. Will definitely use them again!.",
     image:
-      "https://scontent.fcrk2-1.fna.fbcdn.net/v/t39.30808-6/445493608_1505838476954330_8502984115265476810_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Sh9PpivRevAQ7kNvgHb6GGD&_nc_ht=scontent.fcrk2-1.fna&oh=00_AYD3G2FPu6O99xzfRWksA7TlqZLwDsfh8PiHu_MMW5E2Qw&oe=66D33C96",
+      "https://scontent.fcrk4-2.fna.fbcdn.net/v/t39.30808-6/351472396_790754219156825_378328372680821886_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=xi52s9S8Q-EQ7kNvgHtubzq&_nc_ht=scontent.fcrk4-2.fna&oh=00_AYDNloiNLk_cEIdGeGDrt3ARhYUjawHB4R5mR_kc0Tz2OA&oe=66DEB937",
     name: "Mark alvin C.",
     position: "CEO",
   },
   {
     text: "PeakVoyage understands the meaning of true luxury travel. My island getaway in the Maldives was beyond compare. I was pampered with impeccable service and exclusive experiences. It was a trip of a lifetime.",
     image:
-      "https://scontent.fcrk4-2.fna.fbcdn.net/v/t39.30808-6/405792912_370097465535380_1792722956710352687_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eO86yux2_j4Q7kNvgH7qdpm&_nc_ht=scontent.fcrk4-2.fna&oh=00_AYAgC7JYa5i2pyy5_tqGUyQINuKOwC87lkX-pAAqiLrUIg&oe=66D330AB",
+      "https://scontent.fcrk4-2.fna.fbcdn.net/v/t39.30808-6/405792912_370097465535380_1792722956710352687_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=oPTPF4HDAEsQ7kNvgEWsIK3&_nc_ht=scontent.fcrk4-2.fna&_nc_gid=ASszttJJj_inKa2sp5StvXz&oh=00_AYA57x1DL71nK-6m5W5cO_WfQHHPsAz_FGg7oBqrarUwjQ&oe=66DED5EB",
     name: "Louegie B.",
     position: "Doctor",
   },
@@ -44,7 +44,7 @@ const testimonials = [
   {
     text: "The attention to detail and personalized service provided by PeakVoyage were outstanding. They ensured every aspect of our trip was perfect, from start to finish.",
     image:
-      "https://scontent.fcrk2-2.fna.fbcdn.net/v/t39.30808-6/448439888_3655575298041007_1808401809486641029_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WQhvd_toWDYQ7kNvgElKY4_&_nc_ht=scontent.fcrk2-2.fna&oh=00_AYCx4VUq6TUaD4vk110wi1IONKwxfriY4zE6cRydln6n7Q&oe=66D32DB8",
+      "https://scontent.fcrk2-2.fna.fbcdn.net/v/t39.30808-6/448439888_3655575298041007_1808401809486641029_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=F-b2co0FHEsQ7kNvgGnZpuh&_nc_ht=scontent.fcrk2-2.fna&_nc_gid=AskoyWdyRTCh1SItGI2HC9H&oh=00_AYCBuADUsTzPGMkZXK_jE3cpU3L2x4GFlt6stQO1z_MIzA&oe=66DED2F8",
     name: "Queennie D.",
     position: "Teacher",
   },
