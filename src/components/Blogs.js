@@ -9,8 +9,11 @@ const Blogs = () => {
 
   return (
     <div>
-      <div className="min-h-screen w-full bg-gray-100 p-4">
-        <h2 className="text-center mb-8 text-indigo-400 text-3xl sm:text-5xl font-Makeba">
+      <div className="min-h-screen w-full  p-4 text-center">
+        <h2
+          className=" mb-8  text-2xl lg:text-3xl font-Makeba rounded-l-full rounded-t-full px-4 py-2 inline-block bg-gradient-to-r from-purple-400 to-indigo-400 text-white "
+          style={{ boxShadow: "0 4px 6px rgb(75, 0, 130)" }}
+        >
           Blogs
         </h2>
         <ul className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-y-10 gap-x-6 items-start p-4">

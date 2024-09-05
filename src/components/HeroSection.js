@@ -10,7 +10,7 @@ const HeroSection = () => {
         loop
         muted
         playsInline
-        className="absolute inset-0 w-full h-full object-cover bg-right-top"
+        className="absolute inset-0 w-full h-full object-cover sm:bg-right-top"
       >
         <source src={BackgroundVideo} type="video/mp4" />
         Your browser does not support the video tag.

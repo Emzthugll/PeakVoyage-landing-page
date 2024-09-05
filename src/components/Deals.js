@@ -2,12 +2,17 @@ import React from "react";
 
 const Deals = () => {
   return (
-    <div id="deals" className="bg-gray-100 ">
-      <div tabIndex="0" className="focus:outline-none">
-        <div className="mx-auto container px-5 py-8 ">
-          <h2 className="text-center mb-10 text-3xl sm:text-5xl  font-Makeba text-indigo-400 mt-3 md:mt-10 ">
-            Deals & Offers
-          </h2>
+    <div id="deals" className=" ">
+      <div tabIndex="0" className="focus:outline-none w-full ">
+        <div className="mx-auto container px-5 py-8  ">
+          <div className="text-center">
+            <h2
+              className=" mb-10 text-2xl lg:text-3xl  font-Makeba  mt-4 md:mt-10  rounded-l-full rounded-t-full px-4 py-2 inline-block bg-gradient-to-r from-purple-400 to-indigo-400 text-white "
+              style={{ boxShadow: "0 4px 6px rgb(75, 0, 130)" }}
+            >
+              Deals & Offers
+            </h2>
+          </div>
           <div className="grid grid-cols-1 xl:grid-cols-3 lg:gap-20 md:grid-cols-2  justify-center">
             {/* Deal 1 */}
             <div

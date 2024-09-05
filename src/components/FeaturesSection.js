@@ -2,10 +2,13 @@ import React from "react";
 
 const FeaturesSection = () => {
   return (
-    <div className=" md:min-h-[80vh] bg-cover bg-center bg-no-repeat bg-gray-100 ">
+    <div className=" md:min-h-[80vh] bg-cover bg-center bg-no-repeat  ">
       <div class="max-w-screen-lg  mx-auto px-9 lg:px-1 flex flex-col justify-evenly ">
         <div class="text-center">
-          <h3 class="text-3xl sm:text-5xl leading-normal font-Makeba tracking-tight text-indigo-400 mt-4">
+          <h3
+            class="text-2xl lg:text-3xl leading-normal font-Makeba tracking-tight  mt-10 rounded-l-full rounded-t-full px-4 py-2 inline-block bg-gradient-to-r from-purple-400 to-indigo-400 text-white "
+            style={{ boxShadow: "0 4px 6px rgb(75, 0, 130)" }}
+          >
             Why choose Us?
           </h3>
         </div>

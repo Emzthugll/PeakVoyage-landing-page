@@ -2,7 +2,6 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import { Pagination, Autoplay } from "swiper/modules";
-import BG from "./images/testBG.jpg";
 
 // Sample testimonials data
 const testimonials = [
@@ -61,11 +60,16 @@ const Testimonials = () => {
   return (
     <section
       className="pb-10 bg-cover bg-center bg-no-repeat  "
-      style={{ backgroundImage: `url(${BG})` }}
+      style={{
+        backgroundImage: `url('https://img.freepik.com/free-vector/flat-design-travel-background_23-2149193475.jpg?t=st=1725529229~exp=1725532829~hmac=714edea8658df6222ee7116c26e5b051f6a1c3e931bd26408142fc8895a2e2f7&w=996')`,
+      }}
     >
       <div className="relative mx-auto max-w-8xl  px-6 md:px-8  bg-opacity-80 p-8 rounded-lg">
         <div className="text-center mb-16">
-          <h2 className="text-3xl sm:text-5xl mb-2 text-indigo-400 font-Makeba">
+          <h2
+            className="text-2xl lg:text-3xl mb-3  font-Makeba rounded-l-full rounded-t-full px-4 py-2 inline-block bg-gradient-to-r from-purple-400 to-indigo-400 text-white "
+            style={{ boxShadow: "0 4px 6px rgb(75, 0, 130)" }}
+          >
             Testimonials
           </h2>
           <span className="text-sm text-gray-500 font-medium block mb-2">
