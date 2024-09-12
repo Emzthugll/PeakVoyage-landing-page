@@ -15,21 +15,21 @@ const testimonials = [
   {
     text: "I was impressed by the attention to detail and the seamless travel arrangements made by PeakVoyage. Their dedication to customer satisfaction is unparalleled.",
     image:
-      "https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/457518516_27548517708080581_338373357538863094_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=AU-AQTedwIIQ7kNvgHOQcHU&_nc_ht=scontent.fcrk4-1.fna&oh=00_AYDIrv37BFfDXoLPkXI5wG-br3HRNyeKWp29SH3g6VhG0Q&oe=66DEE84B",
+      "https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/457518516_27548517708080581_338373357538863094_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=7ZZggFCPwu8Q7kNvgF149Wo&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=AgJzklkpcqG1RG2fvb4qKN0&oh=00_AYAJcYh9B_Fy8Ka0y1_2JlBdX66ZJ1uB-S5LUfh3Uxxoig&oe=66E85B0B",
     name: "Lorraine J.",
     position: "Graphic Designer",
   },
   {
     text: "PeakVoyage helped us find the perfect getaway. Their recommendations were spot on, and their customer service was top-notch. Will definitely use them again!.",
     image:
-      "https://scontent.fcrk4-2.fna.fbcdn.net/v/t39.30808-6/351472396_790754219156825_378328372680821886_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=xi52s9S8Q-EQ7kNvgHtubzq&_nc_ht=scontent.fcrk4-2.fna&oh=00_AYDNloiNLk_cEIdGeGDrt3ARhYUjawHB4R5mR_kc0Tz2OA&oe=66DEB937",
+      "https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/406601420_1401295450741967_6207674409089284902_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=NUrC81xFjEwQ7kNvgH2o6om&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=AogyO6Ihwkwu90_jh6N_8Pb&oh=00_AYCOqskE4pOZm4sZ4po2QVECEu0eKsT2k6ZFGPYPalg0pw&oe=66E8509D",
     name: "Mark alvin C.",
     position: "CEO",
   },
   {
     text: "PeakVoyage understands the meaning of true luxury travel. My island getaway in the Maldives was beyond compare. I was pampered with impeccable service and exclusive experiences. It was a trip of a lifetime.",
     image:
-      "https://scontent.fcrk4-2.fna.fbcdn.net/v/t39.30808-6/405792912_370097465535380_1792722956710352687_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=oPTPF4HDAEsQ7kNvgEWsIK3&_nc_ht=scontent.fcrk4-2.fna&_nc_gid=ASszttJJj_inKa2sp5StvXz&oh=00_AYA57x1DL71nK-6m5W5cO_WfQHHPsAz_FGg7oBqrarUwjQ&oe=66DED5EB",
+      "https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/371878605_321957273682733_1876070716289116427_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=UCy9QesgbU4Q7kNvgGEYc2e&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=A6Gt53yQF94_c9UCFNUsb1K&oh=00_AYAS17h4OR-O1BtfdeSedmTu0Gv5hxBFi5NyCvuvkuWVYA&oe=66E83291",
     name: "Louegie B.",
     position: "Doctor",
   },
