@@ -43,7 +43,7 @@ const testimonials = [
   {
     text: "The attention to detail and personalized service provided by PeakVoyage were outstanding. They ensured every aspect of our trip was perfect, from start to finish.",
     image:
-      "https://scontent.fcrk2-2.fna.fbcdn.net/v/t39.30808-6/448439888_3655575298041007_1808401809486641029_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=F-b2co0FHEsQ7kNvgGnZpuh&_nc_ht=scontent.fcrk2-2.fna&_nc_gid=AskoyWdyRTCh1SItGI2HC9H&oh=00_AYCBuADUsTzPGMkZXK_jE3cpU3L2x4GFlt6stQO1z_MIzA&oe=66DED2F8",
+      "https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/448439888_3655575298041007_1808401809486641029_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=kXMmszE8UNwQ7kNvgFjte89&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=AfD4gvnWBnAuw8o_H-5jl-G&oh=00_AYB9bSPbodGvoEiAPrfb9vNHbSrXXp4oOCFLywUTzBOciw&oe=66E845B8",
     name: "Queennie D.",
     position: "Teacher",
   },

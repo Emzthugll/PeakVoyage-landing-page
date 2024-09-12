@@ -28,12 +28,12 @@ const Blogs = () => {
             />
             <div>
               <h3 className="mb-1 text-slate-900 font-semibold">
-                <span className="block text-md leading-6 text-indigo-400">
+                <span className=" text-left block text-md leading-6 text-indigo-400">
                   Exploring the Magic of Salar de Uyuni: Bolivia's Dazzling Salt
                   Flats
                 </span>
               </h3>
-              <div className="prose prose-slate prose-sm text-slate-600">
+              <div className="prose prose-slate text-left prose-sm text-slate-600">
                 <p>
                   Salar de Uyuni, located in southwestern Bolivia, is the
                   world’s largest salt flat, covering over 10,000 square
@@ -41,7 +41,7 @@ const Blogs = () => {
                 </p>
               </div>
               {visibleIndex === 0 && (
-                <div className="prose prose-slate prose-sm text-slate-600 mt-4">
+                <div className=" text-left prose-slate prose-sm text-slate-600 mt-4">
                   <p>
                     This stunning landscape creates a surreal experience,
                     especially after rain when it transforms into a giant
@@ -87,12 +87,12 @@ const Blogs = () => {
             />
             <div>
               <h3 className="mb-1 text-slate-900 font-semibold">
-                <span className="block text-md leading-6 text-indigo-400">
+                <span className="block text-left text-md leading-6 text-indigo-400">
                   Monastery of Santa Maria dell’Isola: A Cliffside Jewel of
                   Tropea
                 </span>
               </h3>
-              <div className="prose prose-slate prose-sm text-slate-600">
+              <div className="prose prose-slate prose-sm text-left text-slate-600">
                 <p>
                   Perched atop a rocky promontory overlooking the crystal-clear
                   waters of the Tyrrhenian Sea, the Monastery of Santa Maria
@@ -100,7 +100,7 @@ const Blogs = () => {
                 </p>
               </div>
               {visibleIndex === 1 && (
-                <div className="prose prose-slate prose-sm text-slate-600 mt-4">
+                <div className="text-left prose prose-slate prose-sm text-slate-600 mt-4">
                   <p>
                     This historic monastery, with its origins dating back to the
                     6th century, offers visitors a serene escape and panoramic
@@ -144,11 +144,11 @@ const Blogs = () => {
             />
             <div>
               <h3 className="mb-1 text-slate-900 font-semibold">
-                <span className="block text-md leading-6 text-indigo-400">
+                <span className="text-left block text-md leading-6 text-indigo-400">
                   Chasing the Northern Lights: A Spectacular Natural Light Show
                 </span>
               </h3>
-              <div className="prose prose-slate prose-sm text-slate-600">
+              <div className="prose prose-slate prose-sm text-left text-slate-600">
                 <p>
                   Imagine standing under a dark, starry sky as vibrant colors
                   start to dance across the heavens. This is the mesmerizing
@@ -157,7 +157,7 @@ const Blogs = () => {
                 </p>
               </div>
               {visibleIndex === 2 && (
-                <div className="prose prose-slate prose-sm text-slate-600 mt-4">
+                <div className="text-left prose prose-slate prose-sm text-slate-600 mt-4">
                   <p>
                     The Northern Lights are a stunning natural light show that
                     occurs in the Arctic regions. They are created when charged
@@ -214,11 +214,11 @@ const Blogs = () => {
             />
             <div>
               <h3 className="mb-1 text-slate-900 font-semibold">
-                <span className="block text-md leading-6 text-indigo-400">
+                <span className="text-left block text-md leading-6 text-indigo-400">
                   Chocolate Hills: Bohol’s Sweet Natural Wonder
                 </span>
               </h3>
-              <div className="prose prose-slate prose-sm text-slate-600">
+              <div className="text-left prose prose-slate prose-sm text-slate-600">
                 <p>
                   The Chocolate Hills rise from the landscape like a surreal,
                   natural phenomenon. These unique geological formations,
@@ -228,7 +228,7 @@ const Blogs = () => {
                 </p>
               </div>
               {visibleIndex === 3 && (
-                <div className="prose prose-slate prose-sm text-slate-600 mt-4">
+                <div className="text-left prose prose-slate prose-sm text-slate-600 mt-4">
                   <p>
                     The Chocolate Hills are characterized by their perfectly
                     symmetrical, dome-shaped hills that vary in height, creating
@@ -274,11 +274,11 @@ const Blogs = () => {
             />
             <div>
               <h3 className="mb-1 text-slate-900 font-semibold">
-                <span className="block text-md leading-6 text-indigo-400">
+                <span className="text-left block text-md leading-6 text-indigo-400">
                   Las Lajas Sanctuary: Colombia's Architectural Marvel
                 </span>
               </h3>
-              <div className="prose prose-slate prose-sm text-slate-600">
+              <div className="text-left prose prose-slate prose-sm text-slate-600">
                 <p>
                   Nestled in a picturesque canyon near Ipiales, Colombia, the
                   Las Lajas Sanctuary is a stunning example of neo-Gothic
@@ -286,7 +286,7 @@ const Blogs = () => {
                 </p>
               </div>
               {visibleIndex === 4 && (
-                <div className="prose prose-slate prose-sm text-slate-600 mt-4">
+                <div className="text-left prose prose-slate prose-sm text-slate-600 mt-4">
                   <p>
                     Perched on a bridge spanning the Guáitara River, this
                     extraordinary basilica appears to be a natural extension of
@@ -301,7 +301,7 @@ const Blogs = () => {
               )}
               <button
                 onClick={() => handleToggle(4)}
-                className="group inline-flex items-center h-9 rounded-full text-sm font-semibold whitespace-nowrap px-3 focus:outline-none focus:ring-2  bg-indigo-400 text-white hover:bg-blue-500 hover:text-white focus:ring-slate-500 mt-6"
+                className="group inline-flex items-center h-9 rounded-full text-sm font-semibold whitespace-nowrap px-3 focus:outline-none focus:ring-2  bg-indigo-400 text-white hover:bg-blue-500 hover:text-white focus:ring-slate-500 mt-6 ml-auto"
               >
                 {visibleIndex === 4 ? "Show Less" : "Show More"}
                 <svg
